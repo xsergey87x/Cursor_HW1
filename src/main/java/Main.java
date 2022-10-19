@@ -8,6 +8,7 @@ public class Main {
     Animal animal = new Animal();
     animal.catSay();
     animal.dogSay();
+        animal.dogSay();
 
     Math math = new Math();
         System.out.println(math.add(5,2));
